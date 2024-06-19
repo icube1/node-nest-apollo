@@ -9,13 +9,6 @@ With this whole Demo we want to have different microservices exposing graphql sc
 
 ![](https://raw.githubusercontent.com/rkudryashov/graphql-federation/master/architecture.png)
 
-We will build 
-
-- nestjs graphql gateway service
-- nestjs user auth service 
-- nestjs user blog service
-- nestjs user comment service
-
 ### Setting up the whole platform Locally 
 
 This platform contains all these components 
