@@ -27,7 +27,7 @@ docker-compose up
 > check the longs and make sure databases has been created 
 ```
 git clone <repo>
-cd nestjs-with-apollo-federation-gateway
+cd node-nest-apollo
 cd packages
 ```
 ### Running Auth service
