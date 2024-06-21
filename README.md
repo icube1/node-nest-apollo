@@ -2,8 +2,7 @@
 
 nestjs with apollo federation gateway to compose sub graphs from different microservices
 
-This is a demo example to showcase how we can have a federated gateway composing all sub-graphs from different microsercices 
-With this whole Demo we want to have different microservices exposing graphql schema and gateway is composing all to expose from single api endp-point
+### Architecture overview
 
 ![](./snap/snap.png)
 
